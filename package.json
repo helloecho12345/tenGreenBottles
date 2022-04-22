@@ -1,0 +1,12 @@
+{
+  "name": "ten_green_bottles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tenGreenBottles.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
