@@ -10,5 +10,11 @@ describe('tenGreenBottles', () => {
     expect(tenGreenBottles(2)).toEqual(lyrics.Two + '\n\n' + lyrics.One)
   })
 
+  it("returns the last three verses if n=3", () => {
+    expect(tenGreenBottles(3)).toEqual(lyrics.Three + '\n\n' + lyrics.Two + '\n\n' + lyrics.One)
+  })
+
+  
+
 
 })
