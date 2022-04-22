@@ -93,7 +93,14 @@ If that one green bottle
 Should accidentally fall
 There'll be no green bottles
 Hanging on the wall
+
+APPROACH:
+10 verses
+String interpolation for the number of green bottles.
+The final verse is different, so return slightly modified version of the verse.
+
+
 Extension Options
 Generate the lyrics for Ninety-Nine Green Bottles.
 
-Write a Green Bottles lyrics generator that will take a given number, and return the lyrics from that number onwards.
+Write a Green Bottles lyrics generator that will take a given number, and return the lyrics from that number onwards.# tenGreenBottles
